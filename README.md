@@ -81,7 +81,12 @@ Example command:
 
 - LinkedIn: [@eligrand-nezerwa](https://www.linkedin.com/in/eligrand-nezerwa-/)
 
-**Lugard agu**
+👤 **Lugard agu**
+
+- GitHub: [@lugard1](https://github.com/lugard1)
+- Twitter: [@Dsn3kings](https://twitter.com/Dsn3kings)
+- LinkedIn: [Lugard Agu](https://www.linkedin.com/in/lugardagu)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
